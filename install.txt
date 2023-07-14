@@ -32,7 +32,7 @@ mount -t tmpfs -o size=1024M tmpfs /tmp/ramdisk
 4.
 Install your Deb package
 cd /home
-wget https://github.com/DRMStuff/MPDPlayer/raw/master/mpd_player.deb
+wget https://github.com/DRMStuff/MPDPlayer3/raw/master/mpd_player.deb
 dpkg -i mpdplayer_3.0-0_all.deb
 
 After install mpdplayer start automatic
